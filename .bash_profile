@@ -1,5 +1,6 @@
 source ~/projects/bash-scripts/.bash_prompt
 source ~/projects/bash-scripts/aliases
+source ~/projects/bash-scripts/functions/encrypt-decrypt.sh
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
