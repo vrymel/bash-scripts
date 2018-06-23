@@ -1,0 +1,8 @@
+alias v="vim"
+
+# git
+alias gitlog="git log --all --decorate --graph --oneline"
+
+# docker
+alias dpsa="docker ps -a"
+alias dpurge="docker system prune --volumes -f"
