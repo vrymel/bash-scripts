@@ -9,3 +9,7 @@ export NVM_DIR="$HOME/.nvm"
 
 # Add python3 path - as instructed by "brew info python"
 export PATH=/usr/local/opt/python/libexec/bin:$PATH
+
+# virtualenvwrapper
+export WORKON_HOME=~/.Envs
+source /usr/local/bin/virtualenvwrapper.sh
