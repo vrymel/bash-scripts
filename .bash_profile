@@ -13,3 +13,6 @@ export PATH=/usr/local/opt/python/libexec/bin:$PATH
 # virtualenvwrapper
 export WORKON_HOME=~/.Envs
 source /usr/local/bin/virtualenvwrapper.sh
+
+# PHP Composer
+export PATH=/Users/vrymel/projects/php-composer:$PATH
