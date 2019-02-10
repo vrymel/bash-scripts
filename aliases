@@ -30,4 +30,4 @@ alias gitlog="git log --all --decorate --graph --oneline"
 alias dpsa="docker ps -a"
 alias dpurge="docker system prune --volumes -f"
 
-alias youtube-dl-mp3="youtube-dl -i --extract-audio --audio-format mp3 --audio-quality 0 "
+alias ymp3="youtube-dl -i --extract-audio --audio-format mp3 --audio-quality 0 "
