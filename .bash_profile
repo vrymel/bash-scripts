@@ -2,6 +2,7 @@ source ~/projects/bash-scripts/.bash_prompt
 source ~/projects/bash-scripts/aliases
 source ~/projects/bash-scripts/functions/encrypt-decrypt.sh
 source ~/projects/bash-scripts/functions/git-pull-rebase.sh
+source ~/projects/bash-scripts/functions/git-on-top.sh
 
 # NVM
 export NVM_DIR="$HOME/.nvm"
